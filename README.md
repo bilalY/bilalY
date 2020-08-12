@@ -29,8 +29,23 @@
 
 ### 📕 Latest Blog Posts
 
+<<<<<<< Updated upstream
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
+=======
+<<<<<<< HEAD
+=======
+<!-- BLOG-POST-LIST:START -->
+- [test post page – [Cloned #359]](https://bilaly.me/test-post-page-cloned-359-4/)
+- [test post page – [Cloned #359]](https://bilaly.me/test-post-page-cloned-359-6/)
+- [test post 2 – [Cloned #515]](https://bilaly.me/test-post-2-cloned-515-2/)
+- [test post 2 – [Cloned #515] – [Cloned #574]](https://bilaly.me/test-post-2-cloned-515-cloned-574/)
+- [test post 2 – [Cloned #515]](https://bilaly.me/test-post-2-cloned-515-3/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+>>>>>>> master
+>>>>>>> Stashed changes
