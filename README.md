@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Bilal and this is my github Profile :smile:
+### I'm Bilal and this is my Github Profile :smile:
 
 - 🔭 I’m currently working on my PhD at UCL
 - 🌱 I’m currently learning everything 🤣
@@ -27,4 +27,10 @@
 
 ---
 
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
