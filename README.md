@@ -42,7 +42,7 @@
 ---
 
 <details>
-  <summary>:zap: Detailed Github Activity</summary>
+  <summary>:zap:  Detailed Github Activity</summary>
 <br>
 
 </details>
@@ -74,4 +74,5 @@
 
 <br>
 
+<H6>:laughing: Have a giggle...</H6>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
