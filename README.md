@@ -1,11 +1,10 @@
-<h1 align="center"><img src="media/Hi.gif" width="40"> Hi there, my name is Bilal</h1>
+<h1 align="center">Hi there,<img src="media/Hi.gif" width="40"> My name is Bilal</h1>
 
 <h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
 
-![Profile views](https://gpvc.arturio.dev/bilalY)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilaly" alt="bilaly" /> </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bilaly&color=02D1AE&style=flat-square" alt="bilaly" />
+</p>
 <p>I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.</p>
 
 Skills:
