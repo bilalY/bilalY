@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,<img src="media/Hi.gif" width="40"> My name is Bilal</h1>
+<h1 align="center">Hi there,<img src="https://github.com/bilalY/bilalY/blob/master/media/Hi.gif?raw=true" width="40"> My name is Bilal</h1>
 
 <h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
 
