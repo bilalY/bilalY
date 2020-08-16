@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/bilalY/bilalY/blob/master/media/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966.gif?raw=true" width="100">
+</p>
+
 <h1 align="center">Hi there,<img src="https://github.com/bilalY/bilalY/blob/master/media/Hi.gif?raw=true" width="40"> My name is Bilal</h1>
 
 <h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
@@ -34,14 +38,17 @@
 
 <details>
   <summary>:zap: Detailed Github Activity</summary>
-<br>  
+<br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 </details>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <br>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -49,7 +56,8 @@
 
 <details>
     <summary>:zap: Most Used Languages</summary>
-<br>    
+<br>
+
 <p><img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api/top-langs/?username=bilaly" alt="bilaly" /></p>
 
 </details>
@@ -57,6 +65,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 <br>
+
 <p><img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api?username=bilalY&show_icons=true" alt="bilaly" /></p>
 
 </details>
