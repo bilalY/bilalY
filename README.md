@@ -18,13 +18,14 @@ Skills:
 
 <details>
     <summary>:zap: Most Used Languages</summary>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=bilaly)](https://github.com/anuraghazra/github-readme-stats)
+<br>    
+<p><img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api/top-langs/?username=bilaly" alt="bilaly" /></p>
 
 </details>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+<br>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
@@ -33,7 +34,7 @@ Skills:
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-    <img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api?username=bilalY&show_icons=true" alt="bilaly" />
+<br>
+<p><img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api?username=bilalY&show_icons=true" alt="bilaly" /></p>
 
 </details>
