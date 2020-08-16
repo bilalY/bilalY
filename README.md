@@ -1,28 +1,39 @@
-### Hi there 👋
+<h1 align="center"><img src="./media/Hi.gif" width="40"> Hi there, my name is Bilal</h1>
 
-### I'm Bilal and this is my Github Profile :smile:
+<h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
 
-- 🔭 I’m currently working on my PhD at UCL
-- 🌱 I’m currently learning everything 🤣
-- 👯
-- 🥅 2020 Goals:
-- ⚡ Fun fact: I love Photography and compositing in Photoshop
+<p>I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.</p>
 
----
+Skills:
 
-### Connect with me:
+- 🔭 I’m currently working on My PhD in Medical Image Analysis using CNNs
+- 🌱 I’m currently learning Deep Learning
+- 📫 How to reach me: all my contacts can be found at bilaly.me
+- ⚡ Fun fact: I love photography and compositing in photoshop
+    <!-- - 💬 Ask me about -->
+    <!-- - 😄 Pronouns: -->
 
-[<img align="left" alt="bilaly.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bilalyassine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bil_aly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
----
-
+<br>
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
+<details>
+    <summary>:zap: Most Used Languages</summary>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=bilaly)](https://github.com/anuraghazra/github-readme-stats)
 
----
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+    <img align="center" src="https://github-readme-stats-navy-chi.vercel.app/api?username=bilalY&show_icons=true" alt="bilaly" />
+
+</details>
