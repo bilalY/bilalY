@@ -36,12 +36,14 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <details>
   <summary>:zap: Detailed Github Activity</summary>
 <br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </details>
 
