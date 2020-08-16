@@ -42,8 +42,6 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/Dal%20mio%20primo%20Hello%20World%20ho%20scritto%20-2.7%20million%20Linee%20di%20codice-blue)
-
 <!--END_SECTION:waka-->
 
 ---
