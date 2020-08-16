@@ -74,5 +74,6 @@
 
 <br>
 
-<H6>:laughing: Have a giggle...</H6>
+<H3>:laughing: Have a giggle...</H3>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
