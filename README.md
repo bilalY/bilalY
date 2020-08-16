@@ -25,8 +25,12 @@
 
 ### Languages and Tools:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=02D1AE) ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=02D1AE)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=02D1AE) ![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&logo=Mathworks&logoColor=white&color=02D1AE)
+<!-- ![](https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white") -->
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=02D1AE)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=02D1AE)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=02D1AE)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&logo=Mathworks&logoColor=white&color=02D1AE)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=02D1AE)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&color=02D1AE)
 
@@ -37,6 +41,9 @@
 ---
 
 <!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/Dal%20mio%20primo%20Hello%20World%20ho%20scritto%20-2.7%20million%20Linee%20di%20codice-blue)
+
 <!--END_SECTION:waka-->
 
 ---
