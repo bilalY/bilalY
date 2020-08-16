@@ -26,6 +26,7 @@ Skills:
   <summary>:zap: Recent Github Activity</summary>
 <br>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
