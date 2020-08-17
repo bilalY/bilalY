@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on My PhD in Medical Image Analysis using CNNs
 - 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me: all my contacts can be found at bilaly.me/
+- 📫 How to reach me: all my contacts can be found at https://bilaly.me
 - ⚡ Fun fact: I love photography and compositing in photoshop
     <!-- - 💬 Ask me about -->
     <!-- - 😄 Pronouns: -->
