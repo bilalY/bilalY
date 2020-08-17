@@ -2,7 +2,9 @@
 <img src="https://github.com/bilalY/bilalY/blob/master/media/github.gif?raw=true?raw=true?raw=true" width="100">
 </p>
 
-<h1 align="center">Hi there,<img src="https://github.com/bilalY/bilalY/blob/master/media/Hi.gif?raw=true" width="40"> My name is Bilal</h1>
+<h1 align="center">
+  Hi there,<img src="https://github.com/bilalY/bilalY/blob/master/media/Hi.gif?raw=true" width="40"> My name is Bilal
+</h1>
 
 <h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
 
@@ -39,7 +41,6 @@
 ---
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ---
@@ -54,8 +55,8 @@
   <summary>:zap: Recent Github Activity</summary>
 <br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
