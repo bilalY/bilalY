@@ -10,8 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=bilaly&color=02D1AE&style=flat-square" alt="bilaly" />
 </p>
 
----
-
 - 🔭 I’m currently working on My PhD in Medical Image Analysis using CNNs
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: all my contacts can be found at bilaly.me
@@ -49,7 +47,7 @@
 <details>
   <summary>:zap:  Detailed Github Activity</summary>
 <br>
-
+<p><img align="center" src="https://wakatime.com/share/@775a2984-760a-4b3d-999e-1dc1a954bf12/9c448bb9-782e-410f-87eb-2da8b84b0d71.svg" /></p>
 </details>
 
 <details>
