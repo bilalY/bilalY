@@ -27,39 +27,39 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-323-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-388-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 43 Contributions in the year 2020
+> 🏆 65 Contributions in the year 2020
  > 
 > 📦 166.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public repositories
+> 📜 5 Public repositories
  > 
-> 🔑 9 Private repositories 
+> 🔑 8 Private repositories 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-🌆 Daytime    50 commits     ████████████░░░░░░░░░░░░░   48.54% 
-🌃 Evening    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-🌙 Night      23 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33%
+🌞 Morning    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    61 commits     ████████████░░░░░░░░░░░░░   51.26% 
+🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+🌙 Night      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Tuesday      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
-Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   27.18% 
-Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-Sunday       31 commits     ███████░░░░░░░░░░░░░░░░░░   30.1%
+Monday       33 commits     ███████░░░░░░░░░░░░░░░░░░   27.73% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
+Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+Thursday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
+Sunday       31 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05%
 
 ```
 
