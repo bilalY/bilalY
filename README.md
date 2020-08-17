@@ -19,36 +19,83 @@
 
 ### Languages and Tools:
 
-<!-- ![](https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white") -->
-
 ![](https://img.shields.io/badge/OS-Linux-%23000000.svg?&style=for-the-badge&logo=Linux&logoColor=white")
 ---
-<!-- ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=02D1AE)
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=02D1AE)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=02D1AE)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=for-the-badge&logo=Mathworks&logoColor=white&color=02D1AE)
-![](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/pyhton%20-%23000.svg?&style=for-the-badge&logo=pyhton&logoColor=white)
-![](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=02D1AE)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&color=02D1AE) -->
-
-
-<br>
-
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: Github Stats</summary>
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-323-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 43 Contributions in the year 2020
+ > 
+> 📦 166.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public repositories
+ > 
+> 🔑 9 Private repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+🌆 Daytime    50 commits     ████████████░░░░░░░░░░░░░   48.54% 
+🌃 Evening    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+🌙 Night      23 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+Tuesday      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   27.18% 
+Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+Sunday       31 commits     ███████░░░░░░░░░░░░░░░░░░   30.1%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: Europe/London
+
+🔥 Code Editors: 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0% 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Windows                  2 hrs 43 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in MATLAB** 
+
+```text
+MATLAB                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Jupyter Notebook         2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Shell                    1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/bilalY/bilalY/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </details>
-
-<br>
 
 ---
 
