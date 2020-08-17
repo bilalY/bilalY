@@ -41,21 +41,72 @@
 ---
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-323-blue)
 
----
+**🐱 My Github Data** 
 
-<details>
-  <summary>:zap:  Detailed Github Activity</summary>
-<br>
-<p><img align="center" src="https://wakatime.com/share/@775a2984-760a-4b3d-999e-1dc1a954bf12/9c448bb9-782e-410f-87eb-2da8b84b0d71.svg" /></p>
-</details>
+> 🏆 43 Contributions in the year 2020
+ > 
+> 📦 166.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public repositories
+ > 
+> 🔑 9 Private repositories 
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-<br>
+**I'm an Early 🐤** 
 
-<!--START_SECTION:waka-->
+```text
+🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+🌆 Daytime    50 commits     ████████████░░░░░░░░░░░░░   48.54% 
+🌃 Evening    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+🌙 Night      23 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+Tuesday      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
+Wednesday    28 commits     ██████░░░░░░░░░░░░░░░░░░░   27.18% 
+Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+Sunday       31 commits     ███████░░░░░░░░░░░░░░░░░░   30.1%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: Europe/London
+
+🔥 Code Editors: 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.0% 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Windows                  2 hrs 43 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in MATLAB** 
+
+```text
+MATLAB                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Jupyter Notebook         2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Shell                    1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/bilalY/bilalY/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </details>
