@@ -31,51 +31,51 @@
 
 **🐱 My Github Data** 
 
-> 🏆 76 Contributions in the year 2020
+> 🏆 76 Contributions in the Year 2020
  > 
-> 📦 163.2 kB Used in Github's Storage 
+> 📦 164.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public repositories
+> 📜 4 Public Repositories
  > 
-> 🔑 7 Private repositories 
+> 🔑 7 Private Repositories 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    71 commits     █████████████░░░░░░░░░░░░   53.38% 
-🌃 Evening    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-🌙 Night      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29%
+🌞 Morning    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+🌆 Daytime    71 commits     █████████████░░░░░░░░░░░░   52.21% 
+🌃 Evening    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+🌙 Night      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.81% 
-Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Wednesday    28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Thursday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.76% 
-Sunday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   23.31%
+Monday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
+Wednesday    28 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Friday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+Sunday       31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79%
 
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/London
+⌚︎ Time Zone: Europe/London
 
-🔥 Code Editors: 
-VS Code                  12 hrs 10 mins      █████████████████████████   100.0% 
+🔥 Editors: 
+VS Code                  12 hrs 45 mins      █████████████████████████   100.0% 
 Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  10 hrs 41 mins      ██████████████████████░░░   87.8% 
-Linux                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.2%
+Windows                  11 hrs 16 mins      ██████████████████████░░░   88.36% 
+Linux                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64%
 
 ```
 
