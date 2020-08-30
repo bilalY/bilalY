@@ -15,11 +15,20 @@
     <!-- - 💬 Ask me about -->
     <!-- - 😄 Pronouns: -->
 
-<p>abc.</p>
 
-### Languages and Tools:
+<h4 align="left" style="color:#02D1AE;">Connect with me:</h4>
 
-![](https://img.shields.io/badge/OS-Linux-%23000000.svg?&style=for-the-badge&logo=Linux&logoColor=white")
+<p>
+<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Stack Overflow-FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
+
+---
+<!-- ### Languages and Tools:
+
+![](https://img.shields.io/badge/OS-Linux-%23000000.svg?&style=for-the-badge&logo=Linux&logoColor=white") -->
 ---
 
 <details>
