@@ -47,71 +47,72 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-364-blue)
+**🐱 My Github Data** 
 
-**🐱 My Github Data**
-
-> 🏆 56 Contributions in the Year 2020
->
-> 📦 179.1 kB Used in Github's Storage
->
+> 🏆 61 Contributions in the Year 2020
+ > 
+> 📦 35.6 kB Used in Github's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
+ > 
 > 📜 4 Public Repositories
->
-> 🔑 7 Private Repositories
+ > 
+> 🔑 6 Private Repositories 
 
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
-🌆 Daytime    86 commits     █████████████░░░░░░░░░░░░   52.76%
-🌃 Evening    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34%
-🌙 Night      35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47%
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+🌆 Daytime    85 commits     ██████████████░░░░░░░░░░░   59.03% 
+🌃 Evening    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+🌙 Night      30 commits     █████░░░░░░░░░░░░░░░░░░░░   20.83%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       41 commits     ███████░░░░░░░░░░░░░░░░░░   28.47% 
+Tuesday      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Wednesday    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+Friday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+Saturday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
+Sunday       40 commits     ███████░░░░░░░░░░░░░░░░░░   27.78%
 
 ```
 
-📅 **I'm Most Productive on Monday**
 
-```text
-Monday       42 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77%
-Tuesday      23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11%
-Wednesday    28 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18%
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.36%
-Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
-Saturday     14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
-Sunday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   22.09%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-🔥 Editors:
-VS Code                  10 hrs 32 mins      █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  16 hrs 23 mins      █████████████████████████   100.0%
 
-💻 Operating System:
-Windows                  9 hrs 56 mins       ███████████████████████░░   94.34%
-Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66%
+💻 Operating System: 
+Windows                  15 hrs 47 mins      ████████████████████████░   96.36% 
+Linux                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
 
 ```
 
-**I Mostly Code in Jupyter Notebook**
+**I Mostly Code in Shell** 
 
 ```text
-Jupyter Notebook         2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
-Shell                    1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-MATLAB                   1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-Batchfile                1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Shell                    1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Jupyter Notebook         1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+MATLAB                   1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Batchfile                1 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
+
 
 **Timeline**
 
-![Chart not found](https://github.com/bilalY/bilalY/blob/master/charts/bar_graph.png)
+![Chart not found](https://github.com/bilalY/bilalY/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
