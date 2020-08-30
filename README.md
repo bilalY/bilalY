@@ -15,20 +15,31 @@
     <!-- - 💬 Ask me about -->
     <!-- - 😄 Pronouns: -->
 
-<h4 align="left" style="color:#02D1AE;">Connect with me:</h4>
-
+<h4 align="left" style="color:#181717;">Contact:</h4>
 <p>
-<a href="https://github.com/bilalY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.instagram.com/bil_aly/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/bilalyassine/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/bilalyassine?color=33A0FF&logo=keybase&logoColor=33A0FF&style=for-the-badge">
+<br>
+<a href="https://github.com/bilalY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.instagram.com/bil_aly/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bilalyassine/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br>
 <a href="https://stackoverflow.com/users/2751959/bilaly" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2751959?color=FE7A16&style=for-the-badge">
 </p>
 
----
-
-<!-- ### Languages and Tools:
-
-![](https://img.shields.io/badge/OS-Linux-%23000000.svg?&style=for-the-badge&logo=Linux&logoColor=white") -->
+<h4 align="left" style="color:#181717;">Languages and Tools:</h4>
+<!-- <img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/bilalyassine?color=33A0FF&logo=python&logoColor=33A0FF&style=for-the-badge"> -->
+<img src="https://img.shields.io/badge/Matlab%20-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> -->
+<br>
+<img src="https://img.shields.io/badge/VSCode%20-007ACC.svg?&style=for-the-badge&logo=visual studio code&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 ---
 
