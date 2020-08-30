@@ -36,10 +36,9 @@
 <br>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
 <br>
-<img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-007ACC.svg?&style=for-the-badge&logo=visual studio code&logoColor=white">
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </p>
-
 
 ---
 
