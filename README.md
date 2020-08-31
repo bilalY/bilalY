@@ -6,7 +6,7 @@
   Hi there,<img src="https://github.com/bilalY/bilalY/blob/master/media/Hi.gif?raw=true" width="40"> My name is Bilal
 </h1>
 
-<h4 align="center" style="color:#02D1AE;">I am a PhD Student at UCL</h4>
+<h4 align="center" style="color:#181717;">I am a PhD Student at UCL</h4>
 
 - 🔭 I’m currently working on My PhD in Medical Image Analysis using CNNs
 - 🌱 I’m currently learning Deep Learning
