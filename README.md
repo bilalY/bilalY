@@ -90,12 +90,24 @@ Batchfile                1 repos             ██████░░░░░�
 
 </details>
 <br>
-<br>
+<!-- <h3 align="center" style="color:#181717;">Languages and Tools:</h3> -->
+<p align="center">
+<img alt="Matlab" src="https://img.shields.io/badge/Matlab%20-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
+<img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+</p>
+
 
 ---
 
-<h4 align="center" style="color:#181717;">Contact:</h4>
+<!-- <h3 align="center" style="color:#181717;">Contact:</h3> -->
 <p align="center">
+<a href="https://bilaly.me" target="_blank"><img alt="bilaly.me" src="https://img.shields.io/badge/bilaly.me-02D1AE.svg?&style=for-the-badge" /></a>
+<br>
 <a href="https://keybase.io/bilalyassine" target="_blank"><img alt="Keybase PGP" src="https://img.shields.io/keybase/pgp/bilalyassine?color=33A0FF&logo=keybase&logoColor=33A0FF&style=for-the-badge" /></a>
 <br>
 <a href="https://github.com/bilalY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -107,16 +119,7 @@ Batchfile                1 repos             ██████░░░░░�
 </p>
 
 
-<h4 align="center" style="color:#181717;">Languages and Tools:</h4>
-<p align="center">
-<img alt="Matlab" src="https://img.shields.io/badge/Matlab%20-0076A8.svg?&style=for-the-badge&logo=mathworks&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
-<img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-</p>
+
 
 
 
