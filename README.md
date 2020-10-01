@@ -19,7 +19,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -62,10 +62,10 @@ Sunday       41 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.0%
+VS Code                  23 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.0%
+Windows                  23 mins             █████████████████████████   100.0%
 
 ```
 
