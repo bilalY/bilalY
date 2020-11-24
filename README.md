@@ -84,7 +84,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/bilalY/bilalY/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/bilalY/bilalY/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
