@@ -25,7 +25,7 @@
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 121.6 kB Used in Github's Storage 
+> 📦 125.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,20 +36,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-🌆 Daytime    90 commits     ████████████░░░░░░░░░░░░░   50.28% 
-🌃 Evening    31 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
+🌆 Daytime    86 commits     ████████████░░░░░░░░░░░░░   48.04% 
+🌃 Evening    32 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
 🌙 Night      54 commits     ███████░░░░░░░░░░░░░░░░░░   30.17%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
+Monday       43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.02% 
 Tuesday      28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
 Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
 Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
+Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
 Saturday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
 Sunday       37 commits     █████░░░░░░░░░░░░░░░░░░░░   20.67%
 
