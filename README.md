@@ -62,10 +62,10 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
