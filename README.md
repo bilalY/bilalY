@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **aehbaehbaehb**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilaly&show_icons=true&locale=en&layout=compact" alt="bilaly" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilaly&show_icons=true&locale=en&layout=compact" alt="bilaly" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilaly&show_icons=true&locale=en" alt="bilaly" /></p>
 
